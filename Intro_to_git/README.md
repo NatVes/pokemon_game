@@ -45,3 +45,7 @@
       1. git status 
       2. git add
       2. git commit -m message to summarise change
+
+
+## Check differeneces between commits
+- Use 'git log' to see a log of commits
